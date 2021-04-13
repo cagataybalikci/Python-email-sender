@@ -21,6 +21,7 @@ Steps:
  Yahoo: smtp.mail.yahoo.com
 
 ```
+* CHANGE to_addrs with the e-mail address, you want to send email.
 
 * For Gmail you need to do this extra steps 
 ````
@@ -34,4 +35,3 @@ Add a port number by changing your code to this:
     
 smtplib.SMTP("smtp.gmail.com", port=587)
 ```
-* CHANGE to_addrs with the e-mail address, you want to send email.
