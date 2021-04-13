@@ -1,2 +1,2 @@
-# Python-email-sende
+# Python-email-sender
  
