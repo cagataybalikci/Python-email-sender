@@ -34,4 +34,4 @@ Try to go through the Gmail Captcha here while logged in to the Gmail account: h
 Add a port number by changing your code to this:
     
 smtplib.SMTP("smtp.gmail.com", port=587)
-```
+
