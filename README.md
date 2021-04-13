@@ -4,9 +4,9 @@ You can send email with this python file.
 
 Steps:
 
-* CHANGE my_mail with your email
+* CHANGE my_mail with your email -> Ex: my_mail = "blabla@gmail.com"
 
-* CHANGE password with your password
+* CHANGE password with your password -> Ex: password = "123456789"
 
 * CHANGE gmail with your email services -> gmail = "smtp.gmail.com" with services code below
 
@@ -21,7 +21,7 @@ Steps:
  Yahoo: smtp.mail.yahoo.com
 
 ```
-* CHANGE to_addrs with the e-mail address, you want to send email.
+* CHANGE to_addrs with the e-mail address, you want to send email -> Ex: to_addrs = "blablareceiver@gmail.com"
 
 * For Gmail you need to do this extra steps 
 ````
