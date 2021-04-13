@@ -6,7 +6,7 @@ Steps:
 
 * CHANGE my_mail with your email
 
-* CHANGE password with your email
+* CHANGE password with your password
 
 * CHANGE gmail with your email services -> gmail = "smtp.gmail.com" with services code below
 
